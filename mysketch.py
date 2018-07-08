@@ -1,3 +1,6 @@
+'''
+	mysketch.py - program to create live sketch.
+'''
 import cv2
 import numpy as np
 
